@@ -1,4 +1,3 @@
-const { type } = require('@testing-library/user-event/dist/type');
 const mongoose = require('mongoose');
 
 // Define the User schema- a blueprint of creating an object out of the model for the User model
